@@ -5,7 +5,7 @@ scratch/*
 # checkpoints #
 
 .ipynb_checkpoints
-
+.env
 
 
 .DS_store
