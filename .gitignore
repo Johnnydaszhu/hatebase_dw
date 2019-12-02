@@ -4,6 +4,7 @@ scratch/*
 ml
 venv
 # checkpoints #
+hatebase
 
 .ipynb_checkpoints
 .env
