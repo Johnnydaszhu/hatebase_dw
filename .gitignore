@@ -2,7 +2,7 @@
 scratch/*
 .idea
 ml
-
+venv
 # checkpoints #
 
 .ipynb_checkpoints
